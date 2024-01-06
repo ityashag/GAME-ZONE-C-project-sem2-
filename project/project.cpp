@@ -482,7 +482,7 @@ public:
                 string st;
                 fflush(stdin);
                 cout << "\nENTER YOUR NAME : ";
-                getline(cin, st);
+                cin>>st;
                 fflush(stdin);
                 name = st;
                 game_card = rand_pos();
@@ -577,6 +577,7 @@ person getcard()
         }
         fin.close();
         cout << "ENTERED CARD NUMBER IS NOT AVAILABLE IN OUT DATA \n";
+        return s;
 }
 void update_info(person &p)
 {
