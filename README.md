@@ -6,6 +6,12 @@ Welcome to the Flappy Bird and Snake Game repository! This project features two 
 
 The objective of this project is to create and showcase two classic games, Flappy Bird and Snake, using C++. It serves as a programming exercise to understand game development concepts and demonstrates how these games can be implemented in a console environment.
 
+## Demo Video
+
+Check out the demo video to get a glimpse of the Flappy Bird and Snake games in action:
+
+https://github.com/ityashag/GAME-ZONE-C-project-sem2-/assets/97851640/501107ec-e6a8-4ef7-8bf3-8bd4b15a2d55
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [How to Play](#how-to-play)
